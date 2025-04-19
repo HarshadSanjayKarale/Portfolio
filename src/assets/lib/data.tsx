@@ -37,7 +37,6 @@ import { GoHome, GoPerson, GoMail, GoStack, GoProject, GoTrophy } from "react-ic
 import { FiGithub, FiLink, FiLinkedin, FiMail } from "react-icons/fi";
 import Imprint from "../../components/Imprint";
 import Privacy from "../../components/Privacy";
-import { Icon } from '@iconify/react';
 
 export const headerIntroData = {
   title: {

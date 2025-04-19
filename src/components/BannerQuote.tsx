@@ -2,7 +2,6 @@ import React from "react";
 
 import bannerBg from "../assets/img/bannerbg.webp";
 import { quotesData } from "../assets/lib/data";
-import { useLanguage } from "../context/language-context";
 import { useQuoteAnimation } from "../hooks/useQuoteAnimation";
 
 interface BannerProps {

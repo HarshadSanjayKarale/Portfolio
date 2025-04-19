@@ -18,7 +18,7 @@ const LanguageSwitch: React.FC = () => {
         <label
           className="tgl-btn"
           htmlFor="toggle-language"
-          data-tg-off={buttonLabels.language.de}
+          data-tg-off="DE" // Fixed: Use static value instead of buttonLabels.language.de
           data-tg-on={buttonLabels.language.en}
         ></label>
       </div>
