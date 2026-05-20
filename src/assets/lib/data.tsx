@@ -13,7 +13,7 @@ import sassscssicon from "../../assets/icons/sassicon.svg";
 import apiicon from "../../assets/icons/apiicon.svg";
 
 import jwticon from "../../assets/icons/jwticon.svg";
-import profilepicture from "../img/profile2.jpg";
+import profilepicture from "../img/profile.jpg";
 import caricon from "../../assets/icons/car-icon.svg";
 import travelicon from "../../assets/icons/travel-icon.svg";
 import hardwareicon from "../../assets/icons/hardware-icon.svg";
